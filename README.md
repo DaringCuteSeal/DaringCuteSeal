@@ -2,13 +2,13 @@
 - 👩 13, she/her, straight
 - 🇮🇩 Indonesian
 - 🦭 I. Am. Pearl!
-    ![pfp](https://user-images.githubusercontent.com/95740760/198883143-fb448892-c581-4cf9-aa2d-600921e6aca4.png)
+    <img src=https://user-images.githubusercontent.com/95740760/198883143-fb448892-c581-4cf9-aa2d-600921e6aca4.png width=100px>
     
     
 - 💙 Is obsessed with blue.
 - 👓 My glasses are BLUE. Oh and it has 0.5 and 0.75 astigmatic lenses.
 - 
-    <img src=https://user-images.githubusercontent.com/95740760/198876058-bc316f39-724d-463f-98bb-78a28d486b12.jpg width=100px>
+    <img src=https://user-images.githubusercontent.com/95740760/198876058-bc316f39-724d-463f-98bb-78a28d486b12.jpg width=200px>
 
     
 - ☁️ Agnostic. And (still learning to be) stoic.
