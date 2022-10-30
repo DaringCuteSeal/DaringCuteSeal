@@ -2,6 +2,7 @@
 - 👩 13, she/her, straight
 - 🇮🇩 Indonesian
 - 🦭 I. Am. Pearl!
+
     <img src=https://user-images.githubusercontent.com/95740760/198883143-fb448892-c581-4cf9-aa2d-600921e6aca4.png width=100px>
     
     
