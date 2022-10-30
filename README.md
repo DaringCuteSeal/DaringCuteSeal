@@ -1,18 +1,18 @@
 # Me!
 - 👩 13, she/her, straight
+- 🇮🇩 Indonesian
 - 🦭 I. Am. Pearl!
     
-    ![pfp.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/00da18f9-c690-40cd-8c86-794e374af203/pfp.png)
+    ![pfp.png]()
     
 - 💙 Is obsessed with blue.
 - 👓 My glasses are BLUE. Oh and it has 0.5 and 0.75 astigmatic lenses.
-    
-    ![glasses.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/53363706-36ea-4ffe-9191-c4558a770cd4/glasses.jpg)
+    ![glasses](https://user-images.githubusercontent.com/95740760/198876058-bc316f39-724d-463f-98bb-78a28d486b12.jpg)
+
     
 - ☁️ Agnostic. And (still learning to be) stoic.
 - 😺 My pet is Fred. Thanks [Oneko](http://www.daidouji.com/oneko/).
-    
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d09af5a8-92ad-4e82-8961-93c17ac56931/Untitled.png)
+    ![fred](https://user-images.githubusercontent.com/95740760/198876079-07d8b2c8-d23f-4d2b-9a3c-6e8807ff1767.png)
     
 # My interests ✨
 
