@@ -1,5 +1,5 @@
 # Me!
-- 👩 13, she/her, straight
+- 👩 13, she/her
 - 🇮🇩 Indonesian
 - 🦭 I. Am. Pearl!
 
@@ -12,7 +12,6 @@
     <img src=https://user-images.githubusercontent.com/95740760/198876058-bc316f39-724d-463f-98bb-78a28d486b12.jpg width=200px>
 
     
-- ☁️ Agnostic. And (still learning to be) stoic.
 - 😺 My pet is Fred. Thanks [Oneko](http://www.daidouji.com/oneko/).
 - 
     ![fred](https://user-images.githubusercontent.com/95740760/198876079-07d8b2c8-d23f-4d2b-9a3c-6e8807ff1767.png)
