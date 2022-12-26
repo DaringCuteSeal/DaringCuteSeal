@@ -16,4 +16,4 @@ https://daringcuteseal.xyz
 - 💻 Programming and making my own little scripts! I mainly work with BASH, JavaScript, C, and Python.
 - 🐾 Animals! I'm a furry >:3
 - 💙 Blue! Somehow it's part of my identity.
-- 🪐 Philosophy! I love questioning everything but also often got terrified because of it.
+- 🪐 Philosophy! I love questioning everything but also gets terrified because of it.
