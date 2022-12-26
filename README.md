@@ -1,25 +1,19 @@
 # Me!
-- 👩 13, she/her
+https://daringcuteseal.xyz
+
+<img src="https://user-images.githubusercontent.com/95740760/209562555-168bbf7b-9fbe-4929-8a7b-ed84eec7b0c0.png" height=200px></img>
+
+
+- 👩 `13` `she/her`
 - 🇮🇩 Indonesian
-- 🦭 I. Am. Pearl!
+- 🦭 A seal in my imagination
 
-    <img src=https://user-images.githubusercontent.com/95740760/198883143-fb448892-c581-4cf9-aa2d-600921e6aca4.png width=100px>
-    
-    
-- 💙 Is obsessed with blue.
-- 👓 My glasses are BLUE. Oh and it has 0.5 and 0.75 astigmatic lenses.
-- 
-    <img src=https://user-images.githubusercontent.com/95740760/198876058-bc316f39-724d-463f-98bb-78a28d486b12.jpg width=200px>
-
-    
-- 😺 My pet is Fred. Thanks [Oneko](http://www.daidouji.com/oneko/).
-- 
-    ![fred](https://user-images.githubusercontent.com/95740760/198876079-07d8b2c8-d23f-4d2b-9a3c-6e8807ff1767.png)
-    
 # My interests ✨
 
-- ⌨️ Typist. ~110 WPMs. [Keymash](https://keymash.io/profile/Daringcuteseal-9813/).
-- 🐧 Linux enthusiast. Archer. i3.
-- 🎨 Loves art and animation.
-- 💻 Programming and making my own little scripts.
-- 🐾 Furry. Oh, animals makes me melt inside 😺. They’re the cutest beings ever.
+- ⌨️ Typist! ~110 WPMs - [Monkeytype](https://monkeytype.com/profile/Darkowl)
+- 🐧 Linux enthusiast! I'm an [Archer](https://archlinux.org)! I also have Ubuntu Touch, Artix, Gentoo, and LFS lying around.
+- 🎨 Visual art! I'm an illustrator, animator, and a 3D generalist.
+- 💻 Programming and making my own little scripts! I mainly work with BASH, JavaScript, C, and Python.
+- 🐾 Animals! I'm a furry >:3
+- 💙 Blue! Somehow it's part of my identity.
+- 🪐 Philosophy! I love questioning everything but also often got terrified because of it.
