@@ -20,6 +20,6 @@ https://daringcuteseal.xyz
 - 🪐 Philosophy! I love questioning everything but also gets terrified because of it.
 
 # Vacancy!!!
-I'm looking for some coding friends, plez contact me if interested thx 💻
+I'm looking for some new coding friends, plez contact me if interested thx 💻
 
 <img src="https://user-images.githubusercontent.com/95740760/234250184-579bcef4-5079-4bd3-800e-2b4bde83dae2.png" height=100px>
