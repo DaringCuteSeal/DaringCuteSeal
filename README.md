@@ -12,7 +12,7 @@ https://daringcuteseal.xyz
 # My interests ✨
 
 - ⌨️ Typist! ~110 WPMs - [Monkeytype](https://monkeytype.com/profile/Darkowl)
-- 🐧 Linux enthusiast! I'm a <s>[Archer](https://archlinux.org)</s> <s>[Void](https://voidlinux.org)</s> [Artist](https://artixlinux.org)! I also have <s>Ubuntu Touch</s>, Artix, Gentoo, and LFS lying around.
+- 🐧 Linux enthusiast! I'm an <s>[Archer](https://archlinux.org)</s> <s>[Void](https://voidlinux.org)</s> [Artist](https://artixlinux.org)! I also have <s>Ubuntu Touch</s>, Artix, Gentoo, and LFS lying around.
 - 🎨 Visual art! I'm an illustrator, animator, and a 3D generalist.
 - 💻 Programming and making my own little scripts! I mainly work with BASH, JavaScript, C, and Python.
 - 🐾 Animals! I'm a furry >:3
