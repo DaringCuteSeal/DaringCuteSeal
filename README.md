@@ -26,7 +26,7 @@ https://daringcuteseal.xyz
 - 🪐 Philosophy! I love questioning everything but also gets terrified because of it.
 
 # My (Actually) Interesting Stuff
-- [Check out my wallpapers collection!](https://github.com/DaringCuteSeal/wallpapers) My dream is to one day make my site a heaven for ricers ;)
+- [Check out my wallpapers collection!](https://wallpapers.daringcuteseal.xyz) My dream is to one day make my site a heaven for ricers ;)
 - [Whow, a CLI to-do manager](https://github.com/DaringCuteSeal/whow) (a rewrite planned .-.)
 - [AskMe, now in Rust >:)](https://github.com/DaringCuteSeal/askme)
 
