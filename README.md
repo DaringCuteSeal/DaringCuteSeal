@@ -1,8 +1,14 @@
 
 # Me!
+  
+[![Daringcuteseal's GitHub stats](https://github-readme-stats.vercel.app/api?username=daringcuteseal&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+  
+<img src="https://user-images.githubusercontent.com/95740760/209562555-168bbf7b-9fbe-4929-8a7b-ed84eec7b0c0.png" height=200px>
+  
+
 https://daringcuteseal.xyz
 
-<img src="https://user-images.githubusercontent.com/95740760/209562555-168bbf7b-9fbe-4929-8a7b-ed84eec7b0c0.png" height=200px>
+
 
 
 - 👩 `14` `she/her`
