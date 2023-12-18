@@ -2,9 +2,11 @@
 # Me!
   
 [![Daringcuteseal's GitHub stats](https://github-readme-stats.vercel.app/api?username=daringcuteseal&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-  
-<img src="https://user-images.githubusercontent.com/95740760/209562555-168bbf7b-9fbe-4929-8a7b-ed84eec7b0c0.png" height=200px>
-  
+
+<div>
+  <img src="https://github.com/DaringCuteSeal/DaringCuteSeal/assets/95740760/4ae5f4ad-04c7-46e2-a95f-dd79a171a817" height=350px>
+
+  </div>
 
 https://daringcuteseal.xyz
 
