@@ -4,11 +4,10 @@
 [![Daringcuteseal's GitHub stats](https://github-readme-stats.vercel.app/api?username=daringcuteseal&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
-  <img src="https://github.com/DaringCuteSeal/DaringCuteSeal/assets/95740760/4ae5f4ad-04c7-46e2-a95f-dd79a171a817" height=350px>
-
+  <img src="https://github.com/DaringCuteSeal/DaringCuteSeal/assets/95740760/ddc96455-aae7-4110-8464-8542659c8651" height=350px>
   </div>
 
-https://daringcuteseal.xyz
+https://daringcuteseal.github.io
 
 
 
@@ -20,17 +19,16 @@ https://daringcuteseal.xyz
 # My interests ✨
 
 - ⌨️ Typist! ~120 WPMs - [Monkeytype](https://monkeytype.com/profile/Darkowl)
-- 🐧 Linux enthusiast! I'm an <s>[Archer](https://archlinux.org)</s> <s>[Void](https://voidlinux.org)</s> [Artist](https://artixlinux.org)! I also have <s>Ubuntu Touch</s>, Artix, Gentoo, and LFS lying around.
+- 🐧 Linux enthusiast! I'm an <s>[Archer](https://archlinux.org)</s> <s>[Void](https://voidlinux.org)</s> [Artist](https://artixlinux.org)! I also have Ubuntu Touch, Gentoo, and LFS lying around.
 - 🎨 Visual art! I'm an illustrator, animator, and a 3D generalist.
 - 💻 Programming and making my own little scripts! I mainly work with BASH, Python, Rust, JavaScript, and C.
-- 🐾 Animals! I'm a furry >:3
-- 💙 Blue! Somehow it's part of my identity.
-- 🪐 Philosophy! I love questioning everything but also gets terrified because of it.
+- 🐾 Animals!
+- 💙 Blue!
+- 🪐 Philosophy! I love questioning everything but it's terrifying sometimes.
 
 # My (Actually) Interesting Stuff
 - [Check out my wallpapers collection!](https://wallpapers.daringcuteseal.xyz) My dream is to one day make my site a heaven for ricers ;)
 - [Whow, a CLI to-do manager](https://github.com/DaringCuteSeal/whow) (a rewrite planned .-.)
-- [AskMe, now in Rust >:)](https://github.com/DaringCuteSeal/askme)
 
 # Vacancy!!!
 I'm looking for some new ~~coding ***AND ARTSY friends***, plez contact me if interested thx 💻~~ friends, just friends. text me thru Discord or something =)
