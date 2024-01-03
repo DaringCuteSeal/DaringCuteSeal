@@ -4,7 +4,8 @@
 [![Daringcuteseal's GitHub stats](https://github-readme-stats.vercel.app/api?username=daringcuteseal&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
-  <img src="https://github.com/DaringCuteSeal/DaringCuteSeal/assets/95740760/ddc96455-aae7-4110-8464-8542659c8651" height=350px>
+  <img src="https://github.com/DaringCuteSeal/DaringCuteSeal/assets/95740760/a3152561-ffd0-4eff-b3e9-88bbbf6647c6" height=350px>
+  
   </div>
 
 https://daringcuteseal.github.io
@@ -12,9 +13,7 @@ https://daringcuteseal.github.io
 
 
 
-- 👩 `14` `she/her`
-- 🇮🇩 Indonesian
-- 🦭 A seal in my imagination
+`14` `she/her` 🇮🇩🦭
 
 # My interests ✨
 
