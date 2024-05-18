@@ -1,4 +1,4 @@
-
+![neovim2](https://github.com/DaringCuteSeal/DaringCuteSeal/assets/95740760/02a75076-4dc0-4cba-b00d-524d903bb1b4)
 # Me!
   
 [![Daringcuteseal's GitHub stats](https://github-readme-stats.vercel.app/api?username=daringcuteseal&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
@@ -24,10 +24,12 @@ https://daringcuteseal.github.io
 - 🐾 Animals!
 - 💙 Blue!
 - 🪐 Philosophy! I love questioning everything but it's terrifying sometimes.
+- ![neovim](https://github.com/DaringCuteSeal/DaringCuteSeal/assets/95740760/02cb5881-c1b2-41c0-acb0-943780e620f5)
+
 
 # My (Actually) Interesting Stuff
 - [Check out my wallpapers collection!](https://wallpapers.daringcuteseal.xyz) My dream is to one day make my site a heaven for ricers ;)
-- [Whow, a CLI to-do manager](https://github.com/DaringCuteSeal/whow) (a rewrite planned .-.)
+- [My blog!](https://daringcuteseal.github.io/blog)
 
 # Vacancy!!!
 I'm looking for some new ~~coding ***AND ARTSY friends***, plez contact me if interested thx 💻~~ friends, just friends. text me thru Discord or something =)
