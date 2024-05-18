@@ -1,4 +1,3 @@
-![neovim2](https://github.com/DaringCuteSeal/DaringCuteSeal/assets/95740760/02a75076-4dc0-4cba-b00d-524d903bb1b4)
 # Me!
   
 [![Daringcuteseal's GitHub stats](https://github-readme-stats.vercel.app/api?username=daringcuteseal&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
