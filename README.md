@@ -7,7 +7,7 @@
   
   </div>
 
-https://daringcuteseal.github.io
+🌐 https://daringcuteseal.github.io
 
 
 
@@ -25,12 +25,12 @@ https://daringcuteseal.github.io
 - 🪐 Philosophy! I love questioning everything but it's terrifying sometimes.
 - ![neovim](https://github.com/DaringCuteSeal/DaringCuteSeal/assets/95740760/02cb5881-c1b2-41c0-acb0-943780e620f5)
 
+# Projects I'm working on
+- Beantextures v.3 (no public repo rn but [here's the dead one](https://github.com/BeanwareHQ/beantextures)
 
 # My (Actually) Interesting Stuff
 - [Check out my wallpapers collection!](https://wallpapers.daringcuteseal.xyz) My dream is to one day make my site a heaven for ricers ;)
 - [My blog!](https://daringcuteseal.github.io/blog)
 
 # Vacancy!!!
-I'm looking for some new ~~coding ***AND ARTSY friends***, plez contact me if interested thx 💻~~ friends, just friends. text me thru Discord or something =)
-
-<img src="https://user-images.githubusercontent.com/95740760/234250184-579bcef4-5079-4bd3-800e-2b4bde83dae2.png" height=100px>
+Heyy there! 😌 I love people (I'm the weird introvert), so if you want to be my friend, just talk to me anytime! 💙 (just no spams, okay?)
