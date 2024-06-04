@@ -26,7 +26,7 @@
 - ![neovim](https://github.com/DaringCuteSeal/DaringCuteSeal/assets/95740760/02cb5881-c1b2-41c0-acb0-943780e620f5)
 
 # Projects I'm working on
-- Beantextures v.3 (no public repo rn but [here's the dead one](https://github.com/BeanwareHQ/beantextures)
+- [Beantextures v.3](https://github.com/BeanwareHQ/beantextures)
 
 # My (Actually) Interesting Stuff
 - [Check out my wallpapers collection!](https://wallpapers.daringcuteseal.xyz) My dream is to one day make my site a heaven for ricers ;)
