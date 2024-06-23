@@ -18,7 +18,7 @@
 
 - ⌨️ Typing (~120 WPMs) - [Monkeytype](https://monkeytype.com/profile/Darkowl)
 - 🐧 Linox (and other UNIX-related stuff)! I'm an <s>[Archer](https://archlinux.org)</s> <s>[Void](https://voidlinux.org)</s> [Artist](https://artixlinux.org)! I also have Ubuntu Touch, Gentoo, and LFS lying around.
-- 🎨 Visual art! I'm an illustrator, animator, and a 3D generalist.
+- 🎨 Visual art! I'm an illustrator, animator, and a 3D generalist (been Blendering since 2018.. ah, the 90's UI era)
 - 💻 Programming and making my own little scripts! I mainly work with BASH, Python, Rust, JavaScript, and C.
 - 🐾 Animals!
 - 💙 Blue!
