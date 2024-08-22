@@ -15,7 +15,7 @@
 `15` `she/her` 🇮🇩🦭
 
 ## Who?
-Hello, I'm Cikitta. Nothing much, really. I love tech and programming, that's why I'm here.
+Hello, I'm Cikitta. Nothing much, really. I love tech and programming—that's why I'm here.
 
 # My interests ✨
 
