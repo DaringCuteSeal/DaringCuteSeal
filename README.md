@@ -32,7 +32,7 @@ Hello, I'm Cikitta. Nothing much, really. I love tech and programming—that's w
 - [TaskMate](https://github.com/DaringCuteSeal/taskmate)
 
 # My (Actually) Interesting Stuff
-- [Check out my wallpapers collection!](https://wallpapers.daringcuteseal.xyz) My dream is to one day make my site a heaven for ricers ;)
+- [Check out my wallpapers collection!](https://daringcuteseal.github.io/wallpapers) My dream is to one day make my site a heaven for ricers ;)
 - [My blog!](https://daringcuteseal.github.io/blog)
 
 # Vacancy!!!
