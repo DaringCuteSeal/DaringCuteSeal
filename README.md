@@ -9,11 +9,7 @@
 
 🌐 https://daringcuteseal.github.io
 
-
-
-`15` `she/her` 🇮🇩🦭
-
 ## Who?
-Hello, I'm Cikitta. The 3D artist who codes. No, not the other way around.
+Hello, I'm Daringcuteseal. The 3D artist who codes. No, not the other way around.
 
 Nothing else. I love tech and programming—that's why I'm here.
