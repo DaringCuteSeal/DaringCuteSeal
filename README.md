@@ -9,7 +9,23 @@
 
 🌐 https://daringcuteseal.github.io
 
-## Who?
-Hello, I'm Daringcuteseal. The 3D artist who codes. No, not the other way around.
+contact me at [box@dcutes.me](mailto://box@dcutes.me)
 
-Nothing else. I love tech and programming—that's why I'm here.
+## Who?
+hello, I'm Daringcuteseal. the 3D artist who codes. no, not the other way around.
+
+I like
+- digital art
+- animation
+- CGI
+- programming
+- software engineering
+- Linux/*NIX
+- math
+- blogging/writing
+- literature
+- stoicism
+- scientific pantheism
+
+nothing else. I love tech and programming—that's why I'm here.
+
