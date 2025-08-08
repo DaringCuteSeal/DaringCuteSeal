@@ -17,6 +17,7 @@ keyboard slammer from 🇮🇩.
 fav-
 hobby: painting (uhh)
 language: rust 🦀
+language (competitive programming): C++
 shell: nu shell
 distro: artix linux
 wm: hyprland 🔥🤘
