@@ -15,10 +15,12 @@ mail me at [box@dcutes.me](mailto://box@dcutes.me)
 keyboard slammer from 🇮🇩.
 
 fav-
-hobby: painting (uhh)
+hobby: painting
+subject: cs
 language: rust 🦀
 language (competitive programming): C++
 shell: nu shell
 distro: artix linux
 wm: hyprland 🔥🤘
+ide: neovim
 ```
