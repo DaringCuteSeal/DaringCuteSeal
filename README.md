@@ -1,3 +1,5 @@
+> sippin' competitions for uni entrance.. no guarantee of availability rn
+
 
 <!-- [![Daringcuteseal's GitHub stats](https://github-readme-stats.vercel.app/api?username=daringcuteseal&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats) -->
 
