@@ -1,5 +1,5 @@
 > sippin' competitions for uni entrance.. no activity here for now :(
-
+edit: somewhat free now :3
 
 <!-- [![Daringcuteseal's GitHub stats](https://github-readme-stats.vercel.app/api?username=daringcuteseal&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats) -->
 
