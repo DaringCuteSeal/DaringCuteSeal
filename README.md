@@ -7,7 +7,7 @@
 
 🌐 https://daringcuteseal.github.io
 
-mail me at [box@dcutes.me](mailto://box@dcutes.me)
+[write out to me](mailto:daringcuteseal@gmail.com)
 
 # about
 ```
