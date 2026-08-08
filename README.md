@@ -5,7 +5,7 @@
 
   </div>
 
-🌐 https://daringcuteseal.github.io
+🌐 https://www.dcutes.my.id
 
 [write out to me](mailto:daringcuteseal@gmail.com)
 
