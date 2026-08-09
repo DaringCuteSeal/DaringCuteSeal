@@ -27,4 +27,5 @@ wm: hyprland 🔥🤘
 ide: neovim
 ```
 
-![hackatime stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=dcutes&api_domain=hackatime.hackclub.com&layout=compact&theme=onedark&custom_title=Hackatime+Stats&cache_seconds=0&langs_count=12)
+<!-- ![hackatime stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=dcutes&api_domain=hackatime.hackclub.com&layout=compact&theme=onedark&custom_title=Hackatime+Stats&cache_seconds=0&langs_count=12)
+-->
