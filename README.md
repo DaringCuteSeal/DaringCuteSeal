@@ -36,7 +36,7 @@ i use artix linux btw
 
 - 2x provincial finalist (2025 and 2026) of OSN informatika in indonesia :D (only province cuz idk i lack the motivation to be lifeless and do competitive programming every day coZ i like building real stuff instead)
 - i hosted [Sunbeam Jakarta](https://sunbeam.hackclub.com/) in august 2026! maybe u know me as the lead organizer there.
-- a [hackclubber](https://hackclub.com/)
+- been daily driving linux since 2021
 - freethinker :D
   
 <!-- ![hackatime stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=dcutes&api_domain=hackatime.hackclub.com&layout=compact&theme=onedark&custom_title=Hackatime+Stats&cache_seconds=0&langs_count=12)
