@@ -41,8 +41,11 @@ examples include but are not limited to my personal projects down there (that i 
 # fun facts
 
 - 2x provincial finalist (2025 and 2026) of OSN informatika (national science olympiad) in indonesia :D (only province cuz idk i lack the motivation to be lifeless and do competitive programming every day coZ i like building real stuff instead)
+- i went to [hack club fallout](https://fallout.hackclub.com/) in shenzhen, china
 - i hosted [Sunbeam Jakarta](https://sunbeam.hackclub.com/) in august 2026! maybe u know me as the lead organizer there.
 - been daily driving linux since 2021
+- my first language is not indonesian nor english
+- i can solder SMD components with an iron without a microscope, smallest i've done is 0402
 - freethinker :D
   
 <!-- ![hackatime stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=dcutes&api_domain=hackatime.hackclub.com&layout=compact&theme=onedark&custom_title=Hackatime+Stats&cache_seconds=0&langs_count=12)
