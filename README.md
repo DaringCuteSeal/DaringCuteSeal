@@ -41,7 +41,7 @@ examples include but are not limited to my personal projects down there (that i 
 # fun facts
 
 - 2x provincial finalist (2025 and 2026) of OSN informatika (national science olympiad) in indonesia :D (only province cuz idk i lack the motivation to be lifeless and do competitive programming every day coZ i like building real stuff instead)
-- i hosted [Sunbeam Jakarta](https://sunbeam.hackclub.com/) in august 2026! maybe u know me as the lead organizer there.
+- i hosted [Sunbeam Jakarta](https://sunbeam.hackclub.com/) in august 2026!
 - been daily driving linux since 2021
 - my first language is not indonesian nor english
 - i can solder SMD components with an iron without a microscope, smallest i've done is 0402
