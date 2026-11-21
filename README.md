@@ -46,6 +46,7 @@ examples include but are not limited to my personal projects down there (that i 
 - been daily driving linux since 2021
 - my first language is not indonesian nor english
 - i can solder SMD components with an iron without a microscope, smallest i've done is 0402
+- i'm good at formal indonesian. and has been for a long time. no accuse of ai pls :( context for foreigners: formal indonesian is very rarely spoken outside of extremely formal contexts like in academic papers or certain writings.
 - freethinker :D
   
 <!-- ![hackatime stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=dcutes&api_domain=hackatime.hackclub.com&layout=compact&theme=onedark&custom_title=Hackatime+Stats&cache_seconds=0&langs_count=12)
