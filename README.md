@@ -22,6 +22,12 @@ im NOT a vibe coder.
 
 i use artix linux btw
 
+## what i do
+
+i do anything i like
+
+examples include but not limited to the personal projects down there that i pinned
+
 ## favorites
 
 - subject: cs or computer engineering
@@ -34,7 +40,7 @@ i use artix linux btw
 
 # fun facts
 
-- 2x provincial finalist (2025 and 2026) of OSN informatika in indonesia :D (only province cuz idk i lack the motivation to be lifeless and do competitive programming every day coZ i like building real stuff instead)
+- 2x provincial finalist (2025 and 2026) of OSN informatika (national science olympiad) in indonesia :D (only province cuz idk i lack the motivation to be lifeless and do competitive programming every day coZ i like building real stuff instead)
 - i hosted [Sunbeam Jakarta](https://sunbeam.hackclub.com/) in august 2026! maybe u know me as the lead organizer there.
 - been daily driving linux since 2021
 - freethinker :D
