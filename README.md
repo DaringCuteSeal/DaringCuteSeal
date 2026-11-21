@@ -26,7 +26,7 @@ i use artix linux btw
 
 i do anything i like
 
-examples include but not limited to the personal projects down there that i pinned
+examples include but are not limited to the personal projects down there (that i pinned)
 
 ## favorites
 
