@@ -31,7 +31,7 @@ examples include but are not limited to my personal projects down there (that i 
 ## favorites
 
 - subject: cs or computer engineering
-- hobbies: doing linux stuff, coding, game-making, painting, CGI/3d art stuff, 3d modelling, animation, hardware (not too hardcore), photography, writing, biking, fishkeeping, and a lot more
+- hobbies: doing linux stuff, coding, game-making, painting, CGI/3d art stuff, 3d modelling, animation, hardware (not too hardcore), photography, creative writing, biking, fishkeeping
 - language: rust, C++ for competitive programming (sometimes)
 - shell: nu shell
 - distro: artix linux
